@@ -102,3 +102,8 @@ The OS is setup to balk at gcc use, pre-compiled kernel exploits like overlayfs 
 Get the flag
 
 ![Alt text](./ctf.png?raw=true)
+
+
+## thanks
+
+Thanks to Touhid Shaikh for the vm
