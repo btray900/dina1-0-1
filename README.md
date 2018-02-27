@@ -30,7 +30,7 @@ View the source of the page in the 'nothing' directory for compromised credentia
 
 Download and analyze the zip file in the 'secure' directory
 
-Use 'freedom' to unzip the file
+Try each compromised password. First try is lucky, we are in with 'freedom' to unzip the file
 
 ![Alt text](./unzip.png?raw=true)
 
@@ -42,7 +42,7 @@ It is not an audio file, 'cat' the contents to compromise a username
 
 ## browser
 
-Login in to the webapp with compromised loigin info
+Brute force the login in to the webapp with compromised login info, trying each password
 
 user: touhid
 
